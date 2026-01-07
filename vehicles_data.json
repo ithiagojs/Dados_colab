@@ -1,0 +1,37 @@
+[
+  {
+    "vehicle_id": "V100",
+    "model": "HB20",
+    "fuel_type": "Gasolina",
+    "co2_g_per_km": 120,
+    "category": "Econômico"
+  },
+  {
+    "vehicle_id": "V101",
+    "model": "Corolla",
+    "fuel_type": "Gasolina",
+    "co2_g_per_km": 160,
+    "category": "Sedan"
+  },
+  {
+    "vehicle_id": "V102",
+    "model": "Compass",
+    "fuel_type": "Diesel",
+    "co2_g_per_km": 180,
+    "category": "SUV"
+  },
+  {
+    "vehicle_id": "V103",
+    "model": "Tesla Model 3",
+    "fuel_type": "Elétrico",
+    "co2_g_per_km": 0,
+    "category": "Elétrico"
+  },
+  {
+    "vehicle_id": "V104",
+    "model": "Onix",
+    "fuel_type": "Gasolina",
+    "co2_g_per_km": null,
+    "category": "Econômico"
+  }
+]

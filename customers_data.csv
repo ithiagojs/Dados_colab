@@ -1,0 +1,5 @@
+customer_id,customer_type,age,city,loyalty_score
+C001,Recorrente,35,São Paulo,90
+C002,Novo,28,Curitiba,60
+C003,Novo,,Salvador,50
+C004,Corporativo,45,São Paulo,95
